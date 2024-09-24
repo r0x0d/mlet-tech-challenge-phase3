@@ -1,0 +1,5 @@
+streamlit
+spotipy
+black
+pandas
+scikit-learn==1.3.2
