@@ -3,3 +3,4 @@ spotipy
 black
 pandas
 scikit-learn==1.5.2
+streamlit-option-menu
